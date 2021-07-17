@@ -1,13 +1,20 @@
 ## Hi! I'm Estella 👋
+
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/EstellaD/EstellaD/master/My_Octocat_Github.png">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estella-dong/)](https://www.linkedin.com/in/estella-yixing-dong-9b3409103/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/nalaotteristic)](https://twitter.com/nalaotteristic)
 
-<img align="left" width="240" src="https://raw.githubusercontent.com/EstellaD/EstellaD/master/My_Octocat_Github.png">
+* 📖  I did my M.Sc. in Biostatistics from the Dalla Lana School of Public Health at the University of Toronto. 
+* 🔭  My research interests are:
+  * Statistical bioinformatics
+  * Bayesian methods
+  * Causal inference
+  * Neurotechnology
+* 🌱  I also enjoy architecture photography, dancing, and hiking. 
+* 💬  Feel free to connect with me!
 
-- I did my M.Sc. in Biostatistics from the Dalla Lana School of Public Health at the University of Toronto. 
-- My research interests are statistical bioinformatics, Bayesian methods, causal inference, and neurotechnology. 
-- I also enjoy architecture photography :camera:, dancing, and hiking. 
-- Feel free to connect with me!
 
 <!--
 **EstellaD/EstellaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
