@@ -12,7 +12,7 @@
   * Bayesian methods
   * Causal inference
   * Neurotechnology
-* 🌱  I also enjoy architecture photography, dancing, and hiking. 
+* 🌱  I also enjoy architecture photography, figure skating, and hiking. 
 * 💬  Feel free to connect with me!
 
 
