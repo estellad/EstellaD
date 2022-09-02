@@ -9,10 +9,10 @@
 * 🎓  I am doing my PhD in Statistical Bioinformatics at Centre Hospitalier Universitaire Vaudois (CHUV) and University of Lausanne
 * 📖  I did my M.Sc. in Biostatistics from the Dalla Lana School of Public Health at the University of Toronto. 
 * 🔭  My research interests are:
-  * Statistical bioinformatics
   * Bayesian methods
-  * Causal inference
-  * Neurotechnology
+  * Spatial transcriptomics
+  * Single-cell RNA-sequencing
+  * Proteomics
 * 🌱  I also enjoy architecture photography, figure skating, and hiking. 
 * 💬  Feel free to connect with me!
 
