@@ -10,6 +10,7 @@
 * 📖  I did my M.Sc. in Biostatistics from the Dalla Lana School of Public Health at the University of Toronto. 
 * 🔭  My research interests are:
   * Spatial transcriptomics
+    * Digital Pathology 
     * Normalization
     * Cell-cell communication
     
