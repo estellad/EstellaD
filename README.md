@@ -3,7 +3,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/EstellaD/EstellaD/master/My_Octocat_Github.png">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estella-dong/)](https://www.linkedin.com/in/estella-yixing-dong-9b3409103/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estella-dong/)](https://www.linkedin.com/in/estella-dong/) 
 [![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat&logo=Bluesky&logoColor=white&link=https://bsky.app/profile/estellayixingdong.bsky.social)](https://bsky.app/profile/estellayixingdong.bsky.social)
 
 * 🎓  I am doing my PhD in Statistical Bioinformatics at Centre Hospitalier Universitaire Vaudois (CHUV) and University of Lausanne
