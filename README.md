@@ -5,19 +5,19 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estella-dong/)](https://www.linkedin.com/in/estella-dong/) 
 [![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat&logo=Bluesky&logoColor=white&link=https://bsky.app/profile/estellayixingdong.bsky.social)](https://bsky.app/profile/estellayixingdong.bsky.social)
+ <img src="https://komarev.com/ghpvc/?username=estellad&style=flat-square&color=blue" alt=""/>
 
 * 🎓  I am doing my PhD in Statistical Bioinformatics at Centre Hospitalier Universitaire Vaudois (CHUV) and University of Lausanne
 * 📖  I did my M.Sc. in Biostatistics from the Dalla Lana School of Public Health at the University of Toronto. 
 * 🔭  My research interests are:
-  * Spatial transcriptomics
-    * Digital pathology 
-    * Normalization
-    * Cell-cell communication
+  * Spatial Transcriptomics
+  * Real World Evidence
+  * Precision Medicine
     
 * 🌱  I also enjoy architecture photography, figure skating, and hiking. 
 * 💬  Feel free to connect with me!
-
-
+* 
+[![Estella's GitHub stats](https://github-readme-stats.vercel.app/api?username=estellad)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **EstellaD/EstellaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 The octocat is from here: [#myoctocat](https://myoctocat.com/build-your-octocat/?fbclid=IwAR1rL00Bp6V7lGF_pnqQfda87wqIMGWQ_bH7Ve3HlWKakWcZ-Y7-t3UCnig)
