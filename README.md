@@ -16,9 +16,9 @@
     
 * 🌱  I also enjoy architecture photography, figure skating, and hiking. 
 * 💬  Feel free to connect with me!
-* 
-[![Estella's GitHub stats](https://github-readme-stats.vercel.app/api?username=estellad)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=estellad&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Estella's GitHub stats](https://github-readme-stats.vercel.app/api?username=estellad&card_width=300px&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=estellad&theme=highcontrast&background=000000&card_width=300)](https://git.io/streak-stats)
 <!--
 **EstellaD/EstellaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 The octocat is from here: [#myoctocat](https://myoctocat.com/build-your-octocat/?fbclid=IwAR1rL00Bp6V7lGF_pnqQfda87wqIMGWQ_bH7Ve3HlWKakWcZ-Y7-t3UCnig)
